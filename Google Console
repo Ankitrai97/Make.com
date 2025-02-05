@@ -1,0 +1,11 @@
+Authorized Domains: make.com, integromat.com
+
+Rediirect URLs:
+https://www.make.com/oauth/cb/google-custom
+https://www.make.com/oauth/cb/google-restricted
+https://www.make.com/oauth/cb/google-cloud-speech
+https://www.integromat.com/oauth/cb/google-custom
+https://www.integromat.com/oauth/cb/google-restricted
+https://www.integromat.com/oauth/cb/google-cloud-speech
+https://www.integromat.com/oauth/cb/oauth2
+https://www.make.com/oauth/cb/oauth2
